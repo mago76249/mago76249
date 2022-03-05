@@ -1,4 +1,3 @@
-- 📃 My web page : https://mago76249.github.io/mago/
 
 
 <!---
